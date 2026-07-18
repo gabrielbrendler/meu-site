@@ -1,0 +1,13 @@
+<html>
+  <head><title>Caixa de Entrada</title></head>
+  <body>
+    <h1>Meus E-mails</h1>
+    <p><b>De:</b> Maria<br>
+       <b>Assunto:</b> Reunião amanhã<br>
+       <b>Mensagem:</b> Oi Gabriel, confirmando nossa reunião às 10h.</p>
+    <hr>
+    <p><b>De:</b> João<br>
+       <b>Assunto:</b> Fotos da viagem<br>
+       <b>Mensagem:</b> Enviei as fotos para você, veja no anexo.</p>
+  </body>
+</html>
